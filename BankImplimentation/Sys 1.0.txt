@@ -1,0 +1,11 @@
+Sys Use by multiple accounts 
+
+A bank have following properties 
+
+1) User name
+2) Account number (done by system)
+2) Deposit 
+3) Widrail 
+4) Transfer Withing a  bank 
+5) Transfer between bank
+6 ) Delete a user 
